@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'oliviaspanaderia'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_818D38CE18EC4C6EAF09B39CDA8BDBE0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C15DE640A2B64FB797F4711FC0D8F2A5 }}
