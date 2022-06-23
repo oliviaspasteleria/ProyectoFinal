@@ -1,5 +1,5 @@
 import cx_Oracle
-cx_Oracle.init_oracle_client(lib_dir='instantclient_21_6')
+cx_Oracle.init_oracle_client(lib_dir='./instantclient_21_6')
 import hashlib
 import base64
 from imp import IMP_HOOK
